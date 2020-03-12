@@ -1,0 +1,83 @@
+img{
+   border-style: double;
+   border-width: 3px;
+   border-color:  magenta;
+    height: 200px;
+}
+html {
+background-color: #bef29d;
+font-family: 'Varela Round', Joe Prince ;
+}
+h1{
+    color: #fc60ae;
+}
+footer {
+font-size: 6px;
+color: #fc60ae
+}
+p{
+    color: #fc60ae
+}
+h3{
+    color: #fc60ae
+}
+br{
+    color: #fc60ae;
+    font-size: 10px;
+}
+
+.left{
+  color: #fc60ae;
+  font-size: 15px;
+}
+
+.ink{
+  color: #fc60ae;
+}
+
+.color{
+ color: #fc60ae;
+}
+
+hr{
+height: 4px;
+background-color: rgb(194, 59, 100);
+
+}
+h2{
+
+    color: #fc60ae;
+
+}
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(211, 37, 153);
+  }
+  
+  
+  li {
+    float: left;
+    size: 4px;
+  }
+  
+  
+ li a {
+    display: block;
+    color: rgb(10, 224, 92);
+    text-align: center;
+    padding: 5px 7px;
+    text-decoration: rgb(57, 201, 57) underline;
+    font-size: 10px;
+  }
+  
+  
+  li a {
+    background-color: rgb(211, 37, 153);
+  }
+  li a:hover {
+    background-color: rgb(32, 155, 79);
+  }
